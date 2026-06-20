@@ -8,7 +8,7 @@
    >>> EDIT THESE TWO LINES with your real details <<<
    ===================================================================== */
 const BUSINESS = {
-  whatsapp: "9196374139647",         // country code first, NO + or spaces
+  whatsapp: "916374139647",         // country code first, NO + or spaces
   email:    "sales@vishalpolyboards.com",
   phone:    "+91 6374139647",       // display format
   location: {
